@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PAM 5</string>
+    <string name="title_activity_counter_screen">CounterScreen</string>
+</resources>
